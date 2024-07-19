@@ -1,0 +1,1 @@
+Python application for retrieving and displaying news articles from various sources. Utilizes web scraping techniques or APIs to fetch real-time news updates. Features include categorization, search functionality, and user-friendly presentation of news content.<br> Designed to provide timely and relevant news information in a streamlined manner.
